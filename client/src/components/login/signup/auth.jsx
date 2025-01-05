@@ -10,7 +10,7 @@ import { useTheme } from "../../Themecontext"; // Import the theme context
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDGMVJGLfitVXibd_8UHSgnUm-nCZKpBtE",
+  apiKey: "YOUR_API_KEY",
   authDomain: "hack4humanity-39483.firebaseapp.com",
   projectId: "hack4humanity-39483",
   storageBucket: "hack4humanity-39483.appspot.com",
